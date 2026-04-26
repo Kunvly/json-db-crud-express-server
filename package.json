@@ -2,9 +2,9 @@
   "name": "json-db-crud-server",
   "version": "1.0.0",
   "description": "crud operations in nodejs and json as database",
-  "main": "app.js",
+  "main": "node app.js",
   "scripts": {
-    "test": "nodemon app.js"
+    "test": "node app.js"
   },
   "repository": {
     "type": "git",
